@@ -1,7 +1,7 @@
 # Museum Of Candy  
 
 <img width="331" alt="111" src="https://user-images.githubusercontent.com/46241467/79482412-798c5880-8019-11ea-9dea-b745aec00042.png">
-<img width="286" alt="222" src="https://user-images.githubusercontent.com/46241467/79482835-0b946100-801a-11ea-84e6-7a1404ad92de.png">  
+<img width="331" alt="333" src="https://user-images.githubusercontent.com/46241467/79485861-8eb7b600-801e-11ea-9b2d-40a26fbd9bec.png">
   
   
 ## About  
