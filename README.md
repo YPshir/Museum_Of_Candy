@@ -1,5 +1,6 @@
 # Museum Of Candy  
 
+<img width="331" alt="111" src="https://user-images.githubusercontent.com/46241467/79482412-798c5880-8019-11ea-9dea-b745aec00042.png">
 ## About  
 In this code along I created a mock website for Museum of Candy using the provided starter files.
 The goal of this project was to deepen my knowledge of **Bootstrap 4**
